@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ron Chum, MBA"
-resume_title:                   "Data Professional"
+resume_title:                   "UI/UX Design Professional"
 
 # used for the contact button in _layouts/resume.html
 #resume_contact_email:           "rchum2@illinois.edu"
